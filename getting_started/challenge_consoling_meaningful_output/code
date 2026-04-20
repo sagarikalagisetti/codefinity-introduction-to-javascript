@@ -1,0 +1,12 @@
+function printTrapeziumArea() {
+  const a = 13;
+  const b = 21;
+  const h = 10;
+  console.log(
+    "The area of a trapezium is equal to",
+    (a + b) * h / 2,
+    "units."
+  );
+}
+
+printTrapeziumArea();
