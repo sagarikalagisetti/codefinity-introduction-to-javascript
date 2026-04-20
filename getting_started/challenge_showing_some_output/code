@@ -1,7 +1,6 @@
 function initSystem() {
   // Write your code below this line
-
-  ___
+console.log("System initialized successfully.");
 
   // Write your code above this line
 }
