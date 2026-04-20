@@ -1,0 +1,10 @@
+function getTrapeziumArea() {
+  // Write your code below this line
+  const a = 13;
+  const b = 21;
+  const h = 10;
+  return ((a + b) * h) / 2;
+  // Write your code above this line
+}
+
+console.log(getTrapeziumArea());
